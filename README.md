@@ -2,11 +2,13 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🦦 &nbsp;About Me
 
 💡 &nbsp;I like to learn about new solutions of software development\
 🎓 &nbsp;I'm currently studying B.S. in Computer Science and Technology at the Tecnológico de Monterrey.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
+
+![OtterCuteOtterGIF](https://github.com/user-attachments/assets/267d0699-8add-44eb-8038-6c417a816baa)
 
 
 ### 🛠 &nbsp;Tech Stack
