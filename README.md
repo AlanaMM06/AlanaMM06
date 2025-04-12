@@ -13,6 +13,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![MariaDB](https://camo.githubusercontent.com/2f2f482be269f050ff3d50b40225ad1b18ae7a7eafa736a04cea811cf776d922/68747470733a2f2f6d6172696164622e6f72672f77702d636f6e74656e742f75706c6f6164732f323032352f30312f6d6172696164625f6f72675f696e765f7267625f682e706e67)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
