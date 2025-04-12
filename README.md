@@ -5,8 +5,8 @@
 
 ### 🦦 &nbsp;About Me
 
-💡 &nbsp;I like to learn about new solutions of software development\
-🎓 &nbsp;I'm currently studying B.S. in Computer Science and Technology at the Tecnológico de Monterrey.\
+👽 &nbsp;I like to learn about new ways of solutions for problems in software development\
+👾 &nbsp;I'm currently studying B.S. in Computer Science and Technology at the Tecnológico de Monterrey.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 
 
