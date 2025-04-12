@@ -1,6 +1,7 @@
 <h2>Hey there! I'm Alana >_< </h2>
+  
+![OtterCuteOtterGIF](https://github.com/user-attachments/assets/267d0699-8add-44eb-8038-6c417a816baa)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 🦦 &nbsp;About Me
 
@@ -8,7 +9,7 @@
 🎓 &nbsp;I'm currently studying B.S. in Computer Science and Technology at the Tecnológico de Monterrey.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 
-![OtterCuteOtterGIF](https://github.com/user-attachments/assets/267d0699-8add-44eb-8038-6c417a816baa)
+
 
 
 ### 🛠 &nbsp;Tech Stack
