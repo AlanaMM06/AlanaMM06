@@ -1,15 +1,10 @@
-<h2>Hey there! I'm Alana >_< </h2>
-  
-![OtterCuteOtterGIF](https://github.com/user-attachments/assets/267d0699-8add-44eb-8038-6c417a816baa)
-
+<h2>Hey there! I'm Alana Mtz </h2>
 
 ### 🦦 &nbsp;About Me
 
 👽 &nbsp;I like to learn about new ways of solutions for problems in software development\
 👾 &nbsp;I'm currently studying B.S. in Computer Science and Technology at the Tecnológico de Monterrey.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
-
-
 
 
 ### 🤓☝️ &nbsp;Tech Stack
